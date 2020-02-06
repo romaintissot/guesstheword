@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580986945 source:d:\developpement perso\c-c++\guesstheword\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+
